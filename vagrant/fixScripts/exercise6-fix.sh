@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#!/bin/bash
-
 Dir1=$1
 Dir2=$2
 Dir3=$3
